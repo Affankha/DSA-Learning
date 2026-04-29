@@ -1,7 +1,6 @@
 # print the table a input number
 
 n= int(input("enter any number: "))
-
 table =[]
 
 i=1
@@ -11,9 +10,6 @@ while i<=10:
 
 for i in range(len(table)):
     print(table[i])
-
-
-
 
 
 
